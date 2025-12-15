@@ -1,0 +1,37 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# Generated images and outputs
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyCharm
+.idea/
+
+# VSCode
+.vscode/
+
+# Model checkpoints
+*.pth
+*.pt
+*.h5
+*.ckpt
+
+# Data files (uncomment if you don't want to track datasets)
+# *.csv
+# *.json
+# *.txt
